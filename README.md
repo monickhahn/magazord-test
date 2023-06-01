@@ -56,5 +56,11 @@ docker pull jenkins
 ```
 docker run -p 8080:8080 -p 50000:50000 -v /your/home:/var/jenkins_home jenkins
 ```
+![image](https://github.com/monickhahn/magazord-test/assets/105328816/ee9c68e2-d4f1-494e-bc06-76bcf502509e)
+
+![image](https://github.com/monickhahn/magazord-test/assets/105328816/e7a17a81-103c-4007-abaa-5cf57c1d7b78)
+
+![image](https://github.com/monickhahn/magazord-test/assets/105328816/f2969296-6d2a-4b43-be48-724cfb4857c5)
+
 
 ## Meus conhecimentos são básicos em Cloud e virtualização, meu nível é Junior e estou disponsta a aprender, tenho muita força de vontade em aprender e colaborar com o time, busquei os conhecimentos de fontes da internet como blogs e o terraform com ajuda do ChatGPT. Estou disponível para entrevista.
